@@ -16,3 +16,6 @@ This was created for an assignment in CMPT at Simon Fraser University.
 2. Open and run build_bunny.js
 3. View at http://127.0.0.1:3000/Bunny/page.html or install Live Preview extension in Visual Studio Code to view. 
 
+Example of what should be displayed:
+
+![ex_website](https://user-images.githubusercontent.com/61718221/210918990-52aa6a15-590b-430a-8323-20bb3cf5f7ae.PNG)
