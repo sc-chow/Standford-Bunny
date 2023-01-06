@@ -11,6 +11,6 @@ This was created for an assignment in CMPT at Simon Fraser University.
 - Press the 'p' key to start and stop the panning of the rotating point light in the wireframe cube. 
 - Press the 's' key to start and stop the panning of the spotlight in the wireframe cone. 
 
-#How to Execute
+# How to Execute
 
 View at http://127.0.0.1:3000/Bunny/page.html
