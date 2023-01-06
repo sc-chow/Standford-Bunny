@@ -12,5 +12,7 @@ This was created for an assignment in CMPT at Simon Fraser University.
 - Press the 's' key to start and stop the panning of the spotlight in the wireframe cone. 
 
 # How to Execute
+1. Download source code 
+2. Open and run build_bunny.js
+3. View at http://127.0.0.1:3000/Bunny/page.html or install Live Preview extension in Visual Studio Code to view. 
 
-View at http://127.0.0.1:3000/Bunny/page.html
