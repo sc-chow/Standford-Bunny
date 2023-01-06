@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script type="module" src="build_bunny.js"></script>
+    <script type="text/javascript" src="../Common/MV.js"></script>
+    <script type="text/javascript" src="../Common/initShaders.js"></script>
+    <script type="text/javascript" src="../Common/initShaders2.js"></script>
+    <script type="text/javascript" src="../Common/webgl-utils.js"></script>
+    <script type="text/javascript" src="bunny.js"></script>
+    <link rel="stylesheet" href="styling.css">
+</head>
+
+
+<body>
+
+    <h1>Shading Stanford Bunny</h1>
+
+
+    <div class="canvasContainer">
+        <canvas id="myCanvas" tabindex="1"></canvas>
+    </div>
+
+    <h2>Message Box</h2>
+    <div class="myClass">
+        <div id="messageBox" class="messageBox"></div>
+
+    </div>
+
+    <h2>Input Events</h2>
+    <div class="myClass">
+        Key Down: <div id="keydown">None</div> <br>
+        Key Up: <div id="keyup">None</div> <br>
+        Key Press count: <div id="keypress">0</div><br>
+        Mouse x: <div id="mpos_x">?</div> <br>
+        Mouse y: <div id="mpos_y">?</div> <br>
+        Mouse Click: <div id = "mclick">?</div><br>
+        Click Counter: <div id="click_count">0</div>
+    </div>
+
+</body>
+
+</html>
