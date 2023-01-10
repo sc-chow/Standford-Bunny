@@ -1,5 +1,5 @@
-# Standford Bunny
-Renders and shades the Standford Bunny using WebGL. 
+# Stanford Bunny
+Renders and shades the Stanford Bunny using WebGL. 
 
 This was created for an assignment in CMPT at Simon Fraser University. 
 
